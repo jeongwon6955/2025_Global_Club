@@ -376,8 +376,9 @@ a {
 /* 푸터 영역 */
 .footer {
     width: 100%;
-    margin-top: 20px;
+    /* border-top: 1px solid #8f8f8f; */
     margin-top: 50px;
+
 }
 
 .f_container {
